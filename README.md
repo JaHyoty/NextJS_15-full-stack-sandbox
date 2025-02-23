@@ -2,7 +2,7 @@
 
 ---
 ## Description
-This repository is based on an online Next.js 15 course provided by [adrianhajdin](https://github.com/adrianhajdin).</br>
+This repository is based on an online Next.js 15 course provided by [adrianhajdin](https://github.com/adrianhajdin). Course can be found [here](https://www.youtube.com/watch?v=Zq5fmkH0T78)</br>
 With local development, this repository serves as a playground to try out Next.js features within a full-stack environment.
 
 
